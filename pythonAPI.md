@@ -25,7 +25,7 @@ set_count = 1
 ```
 
 ### Looping Through Our Cities
-Now that we have a way to store and keep track of our data, lets start looping over our cities. First, we are going to need to set uo our for loop with enumerate. If you do not know what enumerate is, don't worry it is here to help and is very simple. Enumerate allows us to to loop over something (in our case a our ```cities``` list) and have an automatic counter.
+Now that we have a way to store and keep track of our data, lets start looping over our cities. First, we are going to need to set up our for loop with enumerate. If you do not know what enumerate is, don't worry it is here to help and is very simple. Enumerate allows us to to loop over something (in our case a our ```cities``` list) and have an automatic counter.
 
 ```python
 for i, city in enumerate(cities):
