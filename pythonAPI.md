@@ -161,8 +161,7 @@ plt.savefig("output_data/Fig1.png")
 plt.show()
 ```
 
-If you want to have another look at the Matplotlib ```scatter``` parameters, below is a link to their documentation.
-https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html
+[If you want to have another look at the Matplotlib ```scatter``` parameters, check out the documentation](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.scatter.html)
 
 # Finish
 Don't forget to add, commit, and push all of your changes to your git repo!
